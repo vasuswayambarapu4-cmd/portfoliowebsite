@@ -1,0 +1,7 @@
+portfolio/
+│── app.py
+│── templates/
+│     ├── index.html
+│     ├── contact.html
+│── static/
+      ├── style.css
